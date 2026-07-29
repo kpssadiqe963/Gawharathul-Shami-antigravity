@@ -17,7 +17,7 @@ const translations = {
     navGallery: { en: "Gallery", ar: "المعرض" },
     navContact: { en: "Contact Us", ar: "تواصل معنا" },
     heroTitle: {
-        en: "Malhama Gawharat Al-sham",
+        en: "Malhamat Jowharat Shami",
         ar: "ملحمة جوهرة الشامي"
     },
     heroSubtitle: {
@@ -53,7 +53,7 @@ const translations = {
         ar: "إتصال"
     },
     footerText: {
-        en: "© 2026 Malhama Gawharat Al-sham. All rights reserved.",
+        en: "© 2026 Malhamat Jowharat Shami. All rights reserved.",
         ar: "© 2026 ملحمة جوهرة الشامي. جميع الحقوق محفوظة."
     }
 };
