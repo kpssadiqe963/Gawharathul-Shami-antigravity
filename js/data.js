@@ -12,7 +12,7 @@ const appData = {
       meat3: "لحم البتلو"
     },
     en: {
-      p1: "With over 25 years of experience in the meat industry, we at Malhama Gawharat Al-sham take pride in delivering the finest quality fresh meat daily, upholding the highest standards of hygiene and excellence. Every cut is carefully selected and prepared to guarantee the freshness our customers deserve.",
+      p1: "With over 25 years of experience in the meat industry, we at Malhamat Jowharat Shami take pride in delivering the finest quality fresh meat daily, upholding the highest standards of hygiene and excellence. Every cut is carefully selected and prepared to guarantee the freshness our customers deserve.",
       p2: "We proudly serve our community across 5 branches in the Eastern Region, offering a distinguished selection of premium meats along with outstanding service and competitive prices.",
       tagline: "25 years of experience, and freshness you can trust every day.",
       stat1Label: "Years of Experience",
